@@ -1,0 +1,16 @@
+{
+  "name": "alexanderbader/wp-page-builder-fields",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Alexander Bader",
+      "email": "a.bader@lxbdr.de"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "LXBDR\\WpPageBuilderFields\\": "src"
+    }
+  },
+  "require": {}
+}
